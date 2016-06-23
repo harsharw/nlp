@@ -1,0 +1,3 @@
+Make Believe Town	LOCATION
+Bachelor of (Arts|Laws|Science|Engineering)	DEGREE
+save the world	PLOT_EVENT
